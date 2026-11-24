@@ -1,0 +1,2 @@
+# StockDashboard
+A dashboard
